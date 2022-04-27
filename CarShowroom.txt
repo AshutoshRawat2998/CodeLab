@@ -3,3 +3,5 @@ Welcome to Car Showroom in India
  ->DIZIRE
  ->CRETA
  ->FORTUNER
+ ->SCORPIO
+ ->BOLERO
